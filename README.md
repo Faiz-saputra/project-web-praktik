@@ -1,4 +1,4 @@
-backend : ecosmartapi
-Database : ecosmart.sql
+backend : ecosmartapi ; 
+Database : ecosmart.sql,
 Firebase Auth & Firestore
 
