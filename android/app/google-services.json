@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "354952992774",
+    "project_id": "ecosmart-f746e",
+    "storage_bucket": "ecosmart-f746e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354952992774:android:821e61b4f7c204c1160b87",
+        "android_client_info": {
+          "package_name": "com.ecosmart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDk3u5NIoMRaUlOZWLzWTB6dxwAbpylmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354952992774:android:68c537c1e2410913160b87",
+        "android_client_info": {
+          "package_name": "com.ecosmart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDk3u5NIoMRaUlOZWLzWTB6dxwAbpylmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
